@@ -20,6 +20,7 @@ public class Main {
         // lmao lemme try this;
         String joke;
         String againbutlouder;
+        String testingMYT;
 
         String username;
         String password;
